@@ -1,5 +1,7 @@
 # Peer-To-Peer-Lending-Platform
+
 Introduction
+
 Welcome to the Peer-to-Peer Lending Platform built on the Ethereum blockchain network.
 This modular project aims to revolutionize the lending industry by introducing transparency,
 fairness, and efficiency through decentralized technology.
