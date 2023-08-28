@@ -103,3 +103,8 @@ authorized parties to perform administrative tasks.
 management of individual credit requests.
 This contract also provides functions for investing in projects/credit and voting on contract-
 related actions.
+
+
+FLOW CHART
+![P2P SOL](https://github.com/HUMAYOU-ALI-SARAL/Peer-To-Peer-Lending-Platform/assets/78782252/c483828f-aaea-4077-bb1a-2d433a03cf13)
+
